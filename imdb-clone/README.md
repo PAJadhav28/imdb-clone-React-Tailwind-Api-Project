@@ -36,6 +36,12 @@ A React-based application that allows users to manage their movie watchlist. Use
    ```
 2. Open your browser and navigate to `http://localhost:3000` to view the application.
 
+## Output
+<img src="https://github.com/PAJadhav28/imdb-clone-React-Tailwind-Api-Project/blob/main/imdb-clone/output/WhatsApp%20Image%202025-04-01%20at%203.33.00%20PM%20(1).jpeg">
+<img src="https://github.com/PAJadhav28/imdb-clone-React-Tailwind-Api-Project/blob/main/imdb-clone/output/WhatsApp%20Image%202025-04-01%20at%203.33.00%20PM.jpeg">
+<img src="https://github.com/PAJadhav28/imdb-clone-React-Tailwind-Api-Project/blob/main/imdb-clone/output/WhatsApp%20Image%202025-04-01%20at%203.33.01%20PM%20(1).jpeg">
+<img src="https://github.com/PAJadhav28/imdb-clone-React-Tailwind-Api-Project/blob/main/imdb-clone/output/WhatsApp%20Image%202025-04-01%20at%203.33.01%20PM.jpeg">
+
 ## Contribution Guidelines
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or features.
 
